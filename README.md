@@ -1,2 +1,5 @@
 # hello-world
-week 2
+Hi!
+
+I'm Alice and I study languages at Durham University.
+I love Mexican food
